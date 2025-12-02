@@ -1,1 +1,2 @@
-# Java3_Project_Enterprise_Security
+Java3_Project_Enterprise_Security
+Java web - App quản lý user, CRUD, Authentication, Authorization, JPS, BCrypt...
